@@ -1,5 +1,0 @@
-gradio
-transformers
-torch
-python-dotenv
-huggingface_hub
